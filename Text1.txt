@@ -1,0 +1,3 @@
+Checking multiple commit 
+Text1 file
+s
